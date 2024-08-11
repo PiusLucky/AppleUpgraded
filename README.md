@@ -1,6 +1,7 @@
 # Apple v4
 Apple website built with Next14, Shadcn, and Tailwind.
 
+![apple-thumbnail](https://github.com/user-attachments/assets/830806c5-a314-45aa-9d67-76265c808490)
 
 # Youtube
 
