@@ -1,5 +1,5 @@
 # Apple v4
-Apple website built with Next14, Shadcn, Framer motion and Tailwind.
+Apple website built with Next14, Shadcn, and Tailwind.
 
 
 # Youtube
