@@ -18,6 +18,11 @@ const config = {
       },
     },
     extend: {
+      colors: {
+         customBlack: "#1D1D1F",
+         customWhite: "#F5F5F7",
+         link: "#0066CC"
+      },
       keyframes: {
         "accordion-down": {
           from: { height: "0" },
@@ -32,6 +37,17 @@ const config = {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
       },
+     backgroundImage: {
+      "hero": "url(/images/hero.png)",
+      "iphone15": "url(/images/iphone_15.png)",
+      "iphone15pro": "url(/images/iphone_15pro.png)",
+      "watch": "url(/images/apple_watch.png)",
+      "macbookPro": "url(/images/macbook_pro.png)",
+      "iPad": "url(/images/ipad.png)",
+      "airPodPro": "url(/images/airpods_pro.png)",
+      "card": "url(/images/card.png)",
+      "tradeIn": "url(/images/trade_in.png)",
+     },
     },
   },
   plugins: [require("tailwindcss-animate")],
